@@ -288,13 +288,18 @@ h1 {
 .normal{
     color: white;
     position: absolute;
+    font-size: 30px;
 }
 
 .mi{
-    top:670px;
+    top:610px;
 }
 
 
 .el{
-    top:700px;
+    top:650px;
+}
+
+#huge-wrapper{
+    overflow-x: hidden;
 }
